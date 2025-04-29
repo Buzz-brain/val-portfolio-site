@@ -10,7 +10,7 @@ const About: React.FC = () => {
           <div className="relative order-2 md:order-1">
             <div className="overflow-hidden rounded-lg shadow-lg">
               <img 
-                src="https://images.pexels.com/photos/3769010/pexels-photo-3769010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="../val.jpg" 
                 alt="Ohawuchi Nnaemeka Valentine in his workshop" 
                 className="object-cover w-full h-full"
               />
